@@ -44,5 +44,5 @@ Esta intervención permitió que los estudiantes ejercitaran no solo su **compre
 
 ---
 
-### 🎥 [Ver video de Intervención 2](https://example.com) <!-- Reemplaza el enlace por el real -->
+### 🎥 [Ver video de Intervención 2](https://storage.googleapis.com/alcoapp/utils/blog6-video.mp4)
 
