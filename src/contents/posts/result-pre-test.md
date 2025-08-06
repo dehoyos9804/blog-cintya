@@ -1,7 +1,7 @@
 ---
 title: Resultados del Pre-Test- Punto de partida del proyecto
 published: 2025-06-06
-description: se aplicó un Pre-Test a los estudiantes de sexto grado para evaluar su nivel de habilidades comunicativas en inglés.
+description: se aplicó un Pre-Test a los estudiantes de Decimo grado para evaluar su nivel de habilidades comunicativas en inglés.
 tags: [Blog]
 category: Actividades
 licenseName: "Unlicensed"
@@ -9,7 +9,7 @@ author: Cyntia
 draft: false
 cover: "https://storage.cloud.google.com/alcoapp/utils/blog2.png"
 ---
-Como parte del diagnóstico inicial del proyecto, se aplicó un Pre-Test a los estudiantes de sexto grado para evaluar su nivel de habilidades comunicativas en inglés antes de implementar la estrategia basada en storytelling y el uso de herramientas digitales.
+Como parte del diagnóstico inicial del proyecto, se aplicó un Pre-Test a los estudiantes de decimo grado para evaluar su nivel de habilidades comunicativas en inglés antes de implementar la estrategia basada en storytelling y el uso de herramientas digitales.
 
 El pre-test fue diseñado en función de los siguientes criterios de evaluación:
 
