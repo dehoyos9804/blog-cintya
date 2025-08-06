@@ -13,5 +13,5 @@ cover: "https://storage.googleapis.com/alcoapp/utils/banner3.png"
 En nuestra primera intervención, los estudiantes exploraron “The Little Panda Who Lied About Her Birthday”, una historia corta pero poderosa que les permitió reflexionar sobre la importancia de la honestidad y practicar nuevo vocabulario en inglés.
 
 ## YouTube
-
-<iframe width="100%" height="468" src="https://youtu.be/ItSaCWeyyzI?si=thKFwwzz4hJBE7YH" title="Ver historia de la intervención 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[Haz clic para ver el video en YouTube](https://www.youtube.com/watch?v=ItSaCWeyyzI)
+<iframe width="100%" height="468" src="https://www.youtube.com/embed/ItSaCWeyyzI?si=gvP4fQN73bogHINC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
