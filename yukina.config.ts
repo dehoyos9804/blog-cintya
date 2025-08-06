@@ -3,7 +3,7 @@ import type { Configuration } from "./src/types/config";
 
 const YukinaConfig: Configuration = {
   title: "StoryTelling",
-  subTitle: "Incidencia del storytelling en el desarrollo de habilidades comunicativas del idioma inglés en estudiantes de sexto grado de la Institución Educativa Técnica Pio XII",
+  subTitle: "Incidencia del storytelling en el desarrollo de habilidades comunicativas del idioma inglés en estudiantes de decimo grado de la Institución Educativa Técnica Pio XII",
   brandTitle: "StoryTelling",
 
   description: "Demo Site",
