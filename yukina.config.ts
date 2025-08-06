@@ -8,7 +8,7 @@ const YukinaConfig: Configuration = {
 
   description: "Demo Site",
 
-  site: "https://yukina-blog.vercel.app",
+  site: "https://cintya-blog.netlify.app",
 
   locale: "es", // set for website language and date format
 
@@ -28,7 +28,7 @@ const YukinaConfig: Configuration = {
   ],
 
   username: "Cintya Carolina",
-  sign: "Ad Astra Per Aspera.",
+  sign: "Aprender sin fronteras: El poder de la interculturalidad en la educación",
   avatarUrl: "https://s2.loli.net/2025/01/25/FPpTrQSezM8ivbl.webp",
   socialLinks: [
     {
