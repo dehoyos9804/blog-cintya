@@ -2,11 +2,10 @@
 title: Once Upon a Time… – Introducción al Storytelling
 published: 2025-06-05
 description: Desarrollar la creatividad y el uso básico del vocabulario narrativo en inglés.
-tags: [Markdown, Blogging]
+tags: [Blog]
 category: Actividades
 licenseName: "Unlicensed"
 author: Cyntia
-sourceLink: "https://github.com/emn178/markdown"
 draft: false
 cover: "https://storage.googleapis.com/alcoapp/utils/blog1.jpg"
 ---

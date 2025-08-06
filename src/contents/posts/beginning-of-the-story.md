@@ -1,12 +1,11 @@
 ---
 title: 🎥 ¡Te invitamos a disfrutar la historia que dio inicio a esta aventura!
-published: 2025-06-08
+published: 2025-06-09
 description: una historia corta pero poderosa.
-tags: [Markdown, Blogging]
+tags: [Blog]
 category: Actividades
 licenseName: "Unlicensed"
 author: Cyntia
-sourceLink: "https://github.com/emn178/markdown"
 draft: false
 cover: "https://storage.googleapis.com/alcoapp/utils/banner3.png"
 ---
