@@ -7,7 +7,7 @@ export const es: Translation = {
   [key.copy_right_license]: "Licencia",
 
   [key.nav_bar_home]: "Inicio",
-  [key.nav_bar_archive]: "Archivo",
+  [key.nav_bar_archive]: "Sesiones",
   [key.nav_bar_about]: "Acerca de",
   [key.nav_bar_github]: "GitHub",
   [key.nav_bar_search_placeholder]: "Buscar",

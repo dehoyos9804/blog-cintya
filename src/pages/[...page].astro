@@ -19,7 +19,257 @@ const { page } = Astro.props;
 ---
 
 <Main>
-  <div class="space-y-8">
+  <!-- Hero Section -->
+  <section
+    class="to-[var(--primary-color)]/10 relative mb-8 w-full overflow-hidden rounded-3xl bg-gradient-to-br from-[var(--card-color)] p-12 shadow-2xl"
+  >
+    <!-- Background Pattern -->
+    <div class="absolute inset-0 opacity-5">
+      <div
+        class="absolute left-0 top-0 h-32 w-32 rounded-full bg-[var(--primary-color)] blur-3xl"
+      >
+      </div>
+      <div
+        class="absolute bottom-0 right-0 h-48 w-48 rounded-full bg-[var(--primary-color)] blur-3xl"
+      >
+      </div>
+      <div
+        class="absolute left-1/3 top-1/2 h-24 w-24 rounded-full bg-[var(--primary-color)] blur-2xl"
+      >
+      </div>
+    </div>
+
+    <!-- Content -->
+    <div class="relative z-10 space-y-6 text-center">
+      <div
+        class="bg-[var(--primary-color)]/20 mb-4 inline-flex h-20 w-20 items-center justify-center rounded-2xl"
+      >
+        <svg
+          class="h-10 w-10 text-[var(--primary-color)]"
+          fill="none"
+          stroke="currentColor"
+          viewBox="0 0 24 24"
+        >
+          <path
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            stroke-width="2"
+            d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.746 0 3.332.477 4.5 1.253v13C19.832 18.477 18.246 18 16.5 18c-1.746 0-3.332.477-4.5 1.253"
+          ></path>
+        </svg>
+      </div>
+
+      <h1
+        class="text-5xl font-bold leading-tight text-[var(--primary-color)] md:text-6xl"
+      >
+        ¡Bienvenidos a
+        <span
+          class="to-[var(--primary-color)]/90 bg-gradient-to-r from-[var(--primary-color)] bg-clip-text"
+        >
+          StoryTelling!
+        </span>
+      </h1>
+
+      <p
+        class="text-[var(--text-color)]/80 mx-auto max-w-3xl text-xl leading-relaxed"
+      >
+        Descubre el poder de las narrativas digitales y fortalece tu habilidad
+        oral en inglés a través de
+        <strong class="text-[var(--primary-color)]"
+          >experiencias interactivas</strong
+        > diseñadas especialmente para ti.
+      </p>
+    </div>
+  </section>
+
+  <!-- Features Grid -->
+  <div class="mb-8 grid gap-8 md:grid-cols-2">
+    <!-- Objetivos Card -->
+    <div
+      class="border-[var(--primary-color)]/10 rounded-2xl border bg-[var(--card-color)] p-8 shadow-lg transition-shadow duration-300 hover:shadow-xl"
+    >
+      <div class="mb-6 flex items-center gap-3">
+        <div
+          class="bg-[var(--primary-color)]/10 flex h-12 w-12 items-center justify-center rounded-xl"
+        >
+          <svg
+            class="h-6 w-6 text-[var(--primary-color)]"
+            fill="none"
+            stroke="currentColor"
+            viewBox="0 0 24 24"
+          >
+            <path
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              stroke-width="2"
+              d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+          </svg>
+        </div>
+        <h2 class="text-2xl font-bold text-[var(--primary-color)]">
+          Objetivos de Aprendizaje
+        </h2>
+      </div>
+
+      <div class="space-y-4">
+        <div class="bg-[var(--primary-color)]/5 rounded-xl p-4">
+          <p class="font-medium text-[var(--text-color)]">
+            <strong class="text-[var(--primary-color)]">General:</strong> Fortalecer
+            la habilidad de <em>speaking</em> en inglés a través de narrativas digitales.
+          </p>
+        </div>
+
+        <div class="space-y-3">
+          <div class="flex items-start gap-3">
+            <div
+              class="mt-2 h-2 w-2 flex-shrink-0 rounded-full bg-[var(--primary-color)]"
+            >
+            </div>
+            <p class="text-[var(--text-color)]">
+              Identificar personajes, lugares y secuencia de eventos en una
+              historia.
+            </p>
+          </div>
+          <div class="flex items-start gap-3">
+            <div
+              class="mt-2 h-2 w-2 flex-shrink-0 rounded-full bg-[var(--primary-color)]"
+            >
+            </div>
+            <p class="text-[var(--text-color)]">
+              Ampliar vocabulario en contexto.
+            </p>
+          </div>
+          <div class="flex items-start gap-3">
+            <div
+              class="mt-2 h-2 w-2 flex-shrink-0 rounded-full bg-[var(--primary-color)]"
+            >
+            </div>
+            <p class="text-[var(--text-color)]">
+              Producir narraciones orales creativas en inglés.
+            </p>
+          </div>
+          <div class="flex items-start gap-3">
+            <div
+              class="mt-2 h-2 w-2 flex-shrink-0 rounded-full bg-[var(--primary-color)]"
+            >
+            </div>
+            <p class="text-[var(--text-color)]">
+              Mejorar fluidez, pronunciación y confianza al expresarse.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Guía Card -->
+    <div
+      class="border-[var(--primary-color)]/10 rounded-2xl border bg-[var(--card-color)] p-8 shadow-lg transition-shadow duration-300 hover:shadow-xl"
+    >
+      <div class="mb-6 flex items-center gap-3">
+        <div
+          class="bg-[var(--primary-color)]/10 flex h-12 w-12 items-center justify-center rounded-xl"
+        >
+          <svg
+            class="h-6 w-6 text-[var(--primary-color)]"
+            fill="none"
+            stroke="currentColor"
+            viewBox="0 0 24 24"
+          >
+            <path
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              stroke-width="2"
+              d="M9.663 17h4.673M12 3v1m6.364 1.636l-.707.707M21 12h-1M4 12H3m3.343-5.657l-.707-.707m2.828 9.9a5 5 0 117.072 0l-.548.547A3.374 3.374 0 0014 18.469V19a2 2 0 11-4 0v-.531c0-.895-.356-1.754-.988-2.386l-.548-.547z"
+            ></path>
+          </svg>
+        </div>
+        <h2 class="text-2xl font-bold text-[var(--primary-color)]">
+          ¿Cómo usar este blog?
+        </h2>
+      </div>
+
+      <div class="space-y-4">
+        <div class="flex items-start gap-4">
+          <div
+            class="flex h-8 w-8 flex-shrink-0 items-center justify-center rounded-full bg-[var(--primary-color)] text-sm font-bold text-white"
+          >
+            1
+          </div>
+          <p class="text-[var(--text-color)]">
+            Ve a la sección <strong>Sesiones</strong> y sigue las actividades en
+            orden.
+          </p>
+        </div>
+
+        <div class="flex items-start gap-4">
+          <div
+            class="flex h-8 w-8 flex-shrink-0 items-center justify-center rounded-full bg-[var(--primary-color)] text-sm font-bold text-white"
+          >
+            2
+          </div>
+          <p class="text-[var(--text-color)]">
+            Antes de iniciar cada sesión, revisa los materiales de apoyo.
+          </p>
+        </div>
+
+        <div class="flex items-start gap-4">
+          <div
+            class="flex h-8 w-8 flex-shrink-0 items-center justify-center rounded-full bg-[var(--primary-color)] text-sm font-bold text-white"
+          >
+            3
+          </div>
+          <p class="text-[var(--text-color)]">
+            Completa la actividad y entrega tu producto como se indica.
+          </p>
+        </div>
+
+        <div class="flex items-start gap-4">
+          <div
+            class="flex h-8 w-8 flex-shrink-0 items-center justify-center rounded-full bg-[var(--primary-color)] text-sm font-bold text-white"
+          >
+            4
+          </div>
+          <p class="text-[var(--text-color)]">
+            Usa la rúbrica para evaluar tu trabajo antes de enviarlo.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Call to Action Banner -->
+  <section
+    class="to-[var(--primary-color)]/80 mt-8 rounded-2xl bg-gradient-to-r from-[var(--primary-color)] p-8 text-center shadow-lg"
+  >
+    <h3 class="mb-4 text-2xl font-bold text-white md:text-3xl">
+      ¿Listo para comenzar tu aventura?
+    </h3>
+    <p class="mx-auto mb-6 max-w-2xl text-white/90">
+      Únete a miles de estudiantes que ya han mejorado sus habilidades de
+      speaking en inglés con nuestro método innovador.
+    </p>
+    <a
+      href="/archive"
+      class="inline-flex transform items-center gap-2 rounded-xl bg-white px-8 py-4 font-bold text-[var(--primary-color)] shadow-lg transition-all duration-300 hover:-translate-y-1 hover:shadow-xl"
+    >
+      <svg
+        class="h-5 w-5"
+        fill="none"
+        stroke="currentColor"
+        viewBox="0 0 24 24"
+      >
+        <path
+          stroke-linecap="round"
+          stroke-linejoin="round"
+          stroke-width="2"
+          d="M14.828 14.828a4 4 0 01-5.656 0M9 10h1.01M15 10h1.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"
+        ></path>
+      </svg>
+      Explorar Sesiones
+    </a>
+  </section>
+  {
+    /* <div class="space-y-8">
+    <!-- Lista de actividades -->
     <div class="w-full space-y-4">
       {
         page.data.map((entry, index) => (
@@ -43,6 +293,8 @@ const { page } = Astro.props;
         ))
       }
     </div>
+
+    <!-- Paginación -->
     <Pagination
       class="onload-animation"
       lastPage={page.lastPage}
@@ -51,5 +303,6 @@ const { page } = Astro.props;
       nextURL={page.url.next}
       style={`animation-delay: calc(var(--onload-animation-delay) + ${page.data.length + 1} * var(--onload-animation-interval));`}
     />
-  </div>
+  </div>*/
+  }
 </Main>

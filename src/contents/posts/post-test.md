@@ -1,43 +1,71 @@
 ---
-title: 📊 Del pretest al post-test - ¡Una transformación narrada en inglés!
-published: 2025-06-21
-description: Los resultados del post-test reflejan un progreso notable en todos los criterios evaluados.
+title: "🎬 Sesión 3 – Post-Test: Creando Mi Propia Historia"
+published: 2025-06-22
+description: "Evaluación final para demostrar tus habilidades de Storytelling. En esta sesión, crearás en equipo una historia original desde cero y la presentarás en un video creativo."
 tags: [Blog]
-category: Actividades
+category: Sesiones
 licenseName: "Unlicensed"
 author: Cyntia
 draft: false
-cover: "https://storage.googleapis.com/alcoapp/utils/blog13.png"
+cover: "https://storage.googleapis.com/alcoapp/utils/blog12.jpg"
 ---
 
-A través de nuestra intervención pedagógica basada en el uso del **storytelling**, los estudiantes no solo aprendieron a contar historias, sino que también mejoraron significativamente su **habilidad oral en inglés**.
-
-Los resultados del **post-test** reflejan un progreso notable en todos los criterios evaluados, lo que demuestra que el enfoque narrativo, combinado con estrategias didácticas activas, fue altamente efectivo.
-
-[![Secuencia didáctica](https://storage.googleapis.com/alcoapp/utils/blog13.png)](https://storage.googleapis.com/alcoapp/utils/blog13.png) 
+¡Has llegado a la sesión final! Es hora de convertirte en un verdadero *storyteller*. En este Post-Test, aplicarás todo lo que has aprendido para crear y narrar una historia completamente original. ¡Este es el momento de brillar y mostrar tu creatividad!
 
 ---
 
-✨ **¿Qué significan estos resultados?**
-
-🧠 **Creatividad:**  
-Los estudiantes se apropiaron de la estructura narrativa y fueron capaces de innovar, conectar emocionalmente y sorprender con sus relatos. La creatividad pasó de **4.2 a 4.8**, mostrando una evolución significativa en su capacidad de expresión original.
-
-📚 **Vocabulario:**  
-El nivel léxico aumentó de **básico a alto**, reflejando un uso más preciso, variado y contextualizado del vocabulario aprendido durante las sesiones.
-
-🗣️ **Fluidez y claridad:**  
-Gracias a la práctica constante y las dinámicas guiadas, los estudiantes mejoraron su **fluidez** (de **3.5 a 4.3**) y **claridad** (de **3.7 a 4.5**), reduciendo titubeos y aumentando la naturalidad al hablar.
-
-🧩 **Coherencia y estructura:**  
-Sus historias fueron más lógicas, conectadas y bien organizadas, con uso adecuado de **tiempos verbales** y **recursos discursivos**.
-
-🎭 **Interacción y expresión corporal:**  
-Además de participar en sus grupos, los estudiantes interactuaron con el público, adaptando tono, ritmo y gestos. La **expresión corporal** subió de **4.0 a 4.7**, reflejando mayor seguridad escénica y apropiación del relato.
+## 🎯 Objetivo
+El objetivo de esta evaluación es que demuestres tu habilidad comunicativa en inglés. Para ello, deberás crear una historia original desde sus cimientos y narrarla de forma coherente y creativa, utilizando todos los elementos de la estrategia **Storytelling**.
 
 ---
 
-Este proceso no solo fortaleció la **competencia oral en inglés**, sino que también generó una **evolución emocional, lingüística y actitudinal**.  
-Los estudiantes perdieron el miedo a hablar, descubrieron su voz narrativa y aprendieron a expresarse de forma auténtica y significativa en una segunda lengua.
+## 📝 Instrucciones: Creando Mi Propia Historia
+Para esta actividad, trabajarás en parejas. Sigue estos pasos para construir tu relato:
 
-💡 **Cuando combinamos emociones, creatividad y tecnología en el aula, logramos un aprendizaje más humano, profundo y duradero.**
+### **Paso 1: Sorteo de Personajes (Characters Lottery)** 
+- Cada pareja usará una ruleta para obtener los personajes de su historia de forma aleatoria.
+- Cada grupo tendrá un mínimo de 5 personajes, que pueden ser animales, figuras fantásticas, seres míticos o personas comunes.
+
+🎲 **[Acceder a la ruleta de personajes](http://wooclap.com/es/gira-la-ruleta-aleatoria/)**
+
+---
+
+### **Paso 2: Elección del Escenario (Choosing a Setting)**
+- Una vez que tengan sus personajes, cada equipo tendrá la libertad de escoger el lugar o escenario donde se desarrollará la historia.
+- ¡Asegúrense de que el escenario sea coherente con los personajes que les tocaron!
+
+---
+
+### **Paso 3: Vocabulario y Tiempo Verbal (Vocabulary)**
+- Recibirán una lista con 10 palabras de vocabulario que deberán incluir obligatoriamente en su relato.
+- También se les asignará el tiempo verbal (pasado, presente, etc.) en el que debe ser narrada la historia.
+
+---
+
+### **Paso 4: Creación del Storymap**
+- Con los personajes, el escenario y el vocabulario definidos, construirán la secuencia de su historia.
+- Deberán estructurar claramente los tres momentos clave del relato: **inicio, nudo y desenlace**.
+
+📷 **Formato de Story Map:**
+[Formato de planificación narrativa](https://storage.googleapis.com/alcoapp/utils/POSTEST.pdf)
+
+---
+
+### **Paso 5: ¡A Grabar!**
+- El producto final será un **video** donde narren la historia que crearon.
+- Tienen total libertad para usar material de apoyo como marionetas, imágenes, disfraces o incluso interpretar ustedes mismos a los personajes para hacer el video más dinámico.
+
+---
+
+## 🏆 Evaluación
+El video será evaluado usando la siguiente rúbrica. Se prestará especial atención a la creatividad, el uso del lenguaje y la claridad de la narración.
+
+- **Creatividad (Creativity):** Originalidad y uso de recursos innovadores en la creación y relato de la historia.
+- **Vocabulario (Vocabulary):** Dominio y uso adecuado del léxico asignado.
+- **Fluidez (Fluency):** Ritmo constante al hablar, sin pausas o interrupciones excesivas.
+- **Coherencia (Coherence):** Uso adecuado del tiempo verbal y las estructuras gramaticales.
+- **Interacción (Interaction):** Adaptación del tono de voz y estilo a la historia.
+- **Claridad (Clarity):** Expresión clara y fácil de entender.
+- **Expresión Corporal (Body-language):** Uso de gestos y postura para dar mayor impacto al relato.
+
+📄 **Descargar rúbrica de evaluación (PDF):** [Haz clic aquí](https://storage.googleapis.com/alcoapp/utils/session3-evaluatio.pdf)
