@@ -19,7 +19,7 @@ En esta sesión aplicaremos la estrategia de **Storytelling** para impulsar junt
 Al finalizar esta secuencia, serás capaz de:
 - Identificar los personajes, el contexto y las etapas de una historia.
 - Exponer la secuencia de una historia a partir de elementos dados. 
-- Elaborar y presentar tu propia secuencia histórica en equipo.
+- Elaborar tu propia secuencia histórica en equipo.
 - Proponer finales alternativos para las historias, basándote en tu propio análisis.
 
 ---
@@ -30,7 +30,7 @@ Al finalizar esta secuencia, serás capaz de:
 Comenzaremos esta aventura con la historia **“The Little Panda Who Lied About Her Birthday”**.
 
 1. **Observa la historia:** La proyectaremos una primera vez para que identifiques el vocabulario clave.
-    - **Vocabulario:** *Birthday, Cake, Gift, Party, Exciment, Fibs, Trick, Guilt, Friends, Truth.* 
+    - **Vocabulario:** *Birthday, Cake, Gift, Party, Excitement, Fibs, Trick, Guilt, Friends, Truth.* 
 2. **Verifica tu aprendizaje:** Resolverás una actividad interactiva en Quizziz para afianzar el significado de las palabras. 
     - 🎯 **[Enlace al quiz de vocabulario en Quizizz](https://quizizz.com/admin/quiz/681920af5c8b7689dc7097b1)** 
 3. **Trabajo en equipo:** En grupos de 3, volverán a ver la historia para:

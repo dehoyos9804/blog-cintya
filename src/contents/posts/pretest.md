@@ -16,7 +16,7 @@ Trabajaremos con la historia **"The Lion and the Mouse"** y realizaremos activid
 
 ## 🎯 Objetivo
 Evaluar tus habilidades iniciales para:
-- Comprender y recordar información de una historia en inglés.
+- Comprender información de una historia en inglés.
 - Identificar vocabulario y estructuras verbales.
 - Organizar eventos en secuencia.
 - Comunicar un mensaje de forma oral usando tus propias palabras e imágenes.

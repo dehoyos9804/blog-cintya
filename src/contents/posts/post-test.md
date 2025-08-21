@@ -69,3 +69,11 @@ El video será evaluado usando la siguiente rúbrica. Se prestará especial aten
 - **Expresión Corporal (Body-language):** Uso de gestos y postura para dar mayor impacto al relato.
 
 📄 **Descargar rúbrica de evaluación (PDF):** [Haz clic aquí](https://storage.googleapis.com/alcoapp/utils/session3-evaluatio.pdf)
+
+## 🎓 Diploma de Finalización  
+✨ ¡Gracias por llegar hasta aquí!  
+Tu dedicación y esfuerzo merecen un reconocimiento especial. Al completar la actividad, recibirás un **diploma de participación** como prueba de tu compromiso y aprendizaje.  
+
+![Diploma de Finalización](https://storage.googleapis.com/alcoapp/utils/Diploma.jpeg)  
+
+📄 **Descargar diploma (JPEG):** [Haz clic aquí](https://storage.googleapis.com/alcoapp/utils/Diploma.jpeg)

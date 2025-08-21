@@ -31,3 +31,21 @@ Aquí documentaré cada paso de esta aventura de innovación educativa. Comparti
 Mi objetivo es demostrar cómo un enfoque creativo y tecnológico puede generar una experiencia de aprendizaje auténtica, inclusiva y transformadora.
 
 **¡Gracias por acompañarme en este camino!**
+
+# 👩‍🏫 Créditos  
+
+<div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
+
+  <div style="border: 1px solid #ddd; border-radius: 12px; width: 320px; text-align: center; box-shadow: 2px 2px 10px rgba(0,0,0,0.12); padding: 15px;">
+    <img src="https://storage.googleapis.com/alcoapp/utils/lic-cintya.jpeg" alt="Cintya Carolina Hernández Pérez" style="width: 100%; border-radius: 10px;">
+    <h3 style="margin: 12px 0 5px; font-size: 1.5rem;">Cintya Carolina Hernández Pérez</h3>
+    <p style="font-size: 0.95rem;"><em>Lic. Lenguas extranjeras</em></p>
+  </div>
+
+  <div style="border: 1px solid #ddd; border-radius: 12px; width: 320px; text-align: center; box-shadow: 2px 2px 10px rgba(0,0,0,0.12); padding: 15px;">
+    <img src="https://storage.googleapis.com/alcoapp/utils/lic-leny.jpeg" alt="Leny Luz Bertel Méndez" style="width: 100%; border-radius: 10px;">
+    <h3 style="margin: 12px 0 5px; font-size: 1.7rem;">Leny Luz Bertel Méndez</h3>
+    <p style="font-size: 0.95rem;"><em>Lic. Lenguas extranjeras</em></p>
+  </div>
+
+</div>
